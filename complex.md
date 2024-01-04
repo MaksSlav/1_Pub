@@ -98,8 +98,6 @@ In addition, creatives must obey the following rules:
 
 ### Boilerplate <a name="boilerplate"></a>
 
-# dd
-
 AMPHTML ad creatives require a different, and considerably simpler, boilerplate style line than [general AMP documents do](https://github.com/ampproject/amphtml/blob/main/docs/spec/amp-boilerplate.md):
 
 _Rationale:_ The `amp-boilerplate` style hides body content until the AMP
