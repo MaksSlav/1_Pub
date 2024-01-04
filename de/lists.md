@@ -3,7 +3,6 @@
 ### Unordered
 
 *   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-*   fhffhf
 
 *   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
