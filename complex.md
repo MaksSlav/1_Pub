@@ -32,7 +32,7 @@ rules. Similar in spirit to the
 [AMP format rules](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml), AMPHTML ads have
 access to a limited set of allowed tags, capabilities, and extensions.
 
-## AMPHTML ad format rules <a name="amphtml-ad-format-rules"></a>
+## AMPHTML ad format rules ffff <a name="amphtml-ad-format-rules"></a>
 
 Unless otherwise specified below, the creative must obey all rules given by the
 [AMP format rules](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml.html),
